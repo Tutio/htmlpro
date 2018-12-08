@@ -1,5 +1,6 @@
 Artificial Intelligence
 Python
 Mathematica
-Matlab
+
+java,php,pro,android,ios
 
